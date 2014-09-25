@@ -54,7 +54,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		780DEC9419B72B3A00E0797A /* Appsee.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Appsee.framework; sourceTree = "<group>"; };
 		780DEC9619B72C3F00E0797A /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		780DEC9819B72C4E00E0797A /* CoreMedia.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreMedia.framework; path = System/Library/Frameworks/CoreMedia.framework; sourceTree = SDKROOT; };
 		780DEC9A19B72C5700E0797A /* CoreVideo.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreVideo.framework; path = System/Library/Frameworks/CoreVideo.framework; sourceTree = SDKROOT; };
@@ -207,7 +206,6 @@
 				780DEC9819B72C4E00E0797A /* CoreMedia.framework */,
 				780DEC9619B72C3F00E0797A /* AVFoundation.framework */,
 				CEDD0DC5191180DB009AD500 /* libsqlite3.dylib */,
-				780DEC9419B72B3A00E0797A /* Appsee.framework */,
 				CE7A24EE1911063300CEBE69 /* Foundation.framework */,
 				CE7A24F01911063300CEBE69 /* CoreGraphics.framework */,
 				CE7A24F21911063300CEBE69 /* UIKit.framework */,
